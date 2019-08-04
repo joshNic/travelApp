@@ -1,0 +1,7 @@
+
+Xsquid:S1068%"5Remove this unused "mFirebaseDatabase" private field.(íı°Ïıÿÿÿÿ8·™çÄ-
+usquid:UselessImportCheck"ERemove this unused import 'com.firebase.ui.auth.data.model.Resource'.(¡¼Ñğşÿÿÿÿ8öˆĞõÄ-
+ƒsquid:S1450%"`Remove the "mFirebaseDatabase" field and declare it as a local variable in the relevant methods.(íı°Ïıÿÿÿÿ8Ñøö¶Ä-
+Hsquid:S1125·")Remove the literal "false" boolean value.(éİÌ›8·”ÈõÄ-
+asquid:HiddenFieldCheck5"8Rename "deal" which hides the field declared at line 40.(šÄµœ8ëÇ¢ÎÄ-
+Osquid:S1481‘"+Remove this unused "action" local variable.(ú™†½ûÿÿÿÿ8¡İÌÎÄ-

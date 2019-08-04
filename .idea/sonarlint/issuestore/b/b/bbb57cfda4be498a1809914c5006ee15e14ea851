@@ -1,0 +1,25 @@
+
+\squid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8·‘§òÄ-
+¤squid:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ÷‘Şÿÿÿÿÿ8¹•òÄ-
+[squid:S1444"8Make this "public static mAuthStateListener" field final(²Ş¼¹ıÿÿÿÿ8’ÀçßÄ-
+Jsquid:S1444",Make this "public static mDeals" field final(«º˜¦8Ã‡¿Ä-
+Qsquid:S1444".Make this "public static mStorage" field final(×½Ñùÿÿÿÿ8å¢ËôÄ-
+Zsquid:S1444"7Make this "public static mFirebaseDatabase" field final(·²­öûÿÿÿÿ8ü‚¿Ä-
+—"squid:ClassVariableVisibilityCheck"]Make mFirebaseDatabase a static final constant or non-public and provide accessors if needed.(·²­öûÿÿÿÿ8ü‚¿Ä-
+[squid:S1444"8Make this "public static mDatabaseReference" field final(‚†µÿÿÿÿÿ8µ§„¿Ä-
+"squid:ClassVariableVisibilityCheck"TMake mStorage a static final constant or non-public and provide accessors if needed.(×½Ñùÿÿÿÿ8å¢ËôÄ-
+¤squid:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷¨Ş¬ùÿÿÿÿ8¹•òÄ-
+‡"squid:ClassVariableVisibilityCheck"RMake mDeals a static final constant or non-public and provide accessors if needed.(«º˜¦8Ã‡¿Ä-
+˜"squid:ClassVariableVisibilityCheck"^Make mDatabaseReference a static final constant or non-public and provide accessors if needed.(‚†µÿÿÿÿÿ8µ§„¿Ä-
+"squid:ClassVariableVisibilityCheck""SMake isAdmin a static final constant or non-public and provide accessors if needed.(  òûÿÿÿÿ8ô¿…òÄ-
+Ÿsquid:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èÉÏ8¹•òÄ-
+˜"squid:ClassVariableVisibilityCheck"^Make mAuthStateListener a static final constant or non-public and provide accessors if needed.(²Ş¼¹ıÿÿÿÿ8’ÀçßÄ-
+Vsquid:S1444"3Make this "public static mFirebaseAuth" field final(ØÒ¸‚úÿÿÿÿ8¬îåßÄ-
+¤squid:S1186T"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(äÇ•ûÿÿÿÿ8¹•òÄ-
+wsquid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(æíÕ8©ğ¿áÄ-
+?squid:S2386;"!Make member "mDeals" "protected".(æíÕ8©ğ¿áÄ-
+‘"squid:ClassVariableVisibilityCheck"WMake mStorageRef a static final constant or non-public and provide accessors if needed.(”ùòøÿÿÿÿ8Ö¤ÍôÄ-
+Psquid:S1444""-Make this "public static isAdmin" field final(  òûÿÿÿÿ8ô¿…òÄ-
+squid:S1319"qThe type of the "mDeals" object should be an interface such as "List" rather than the implementation "ArrayList".(«º˜¦8Ã‡¿Ä-
+Tsquid:S1444"1Make this "public static mStorageRef" field final(”ùòøÿÿÿÿ8Ö¤ÍôÄ-
+“"squid:ClassVariableVisibilityCheck"YMake mFirebaseAuth a static final constant or non-public and provide accessors if needed.(ØÒ¸‚úÿÿÿÿ8¬îåßÄ-
